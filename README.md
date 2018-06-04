@@ -69,5 +69,4 @@ v1.0 by Y1nTh35h3ll. Comments welcome to yossis@protonmail.com. Special Thanks t
 
 .LINK
 
-www.CyberArtSecurity
-
+www.CyberArtSecurity.com
