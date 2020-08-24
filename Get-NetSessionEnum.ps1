@@ -51,7 +51,7 @@ Runs a full 'fresh' scan with default choices (all users on all domain controlle
 v1.0 by Y1nTh35h3ll. Comments welcome to yossis@protonmail.com. Special Thanks to Joe Richards (joe@joeware.net) for creating his NetSess tool, used by this script.
 
 .LINK
-https://www.CyberArtSecurity.com
+https://www.10root.com
 #>
 [cmdletbinding()]
 param (
