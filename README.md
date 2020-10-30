@@ -66,7 +66,3 @@ Runs a full 'fresh' scan with default choices (all users on all domain controlle
 .NOTES
 
 v1.0 by Y1nTh35h3ll. Comments welcome to yossis@protonmail.com. Special Thanks to Joe Richards (joe@joeware.net) for his NetSess tool.
-
-.LINK
-
-www.CyberArtSecurity.com
